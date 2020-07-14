@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio site for Shane Riley",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shane-riley/portfolio.git"
+  },
+  "author": "Shane Riley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shane-riley/portfolio/issues"
+  },
+  "homepage": "https://github.com/shane-riley/portfolio#readme"
+}
